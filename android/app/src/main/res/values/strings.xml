@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Acadevia</string>
+    <string name="title_activity_main">Acadevia</string>
+    <string name="package_name">com.acadevia.app</string>
+    <string name="custom_url_scheme">com.acadevia.app</string>
+</resources>
